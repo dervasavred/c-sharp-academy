@@ -1,0 +1,15 @@
+G:\Repository\c-sharp-academy\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+G:\Repository\c-sharp-academy\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+G:\Repository\c-sharp-academy\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+G:\Repository\c-sharp-academy\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+G:\Repository\c-sharp-academy\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+G:\Repository\c-sharp-academy\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+G:\Repository\c-sharp-academy\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repository\c-sharp-academy\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+G:\Repository\c-sharp-academy\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+G:\Repository\c-sharp-academy\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+G:\Repository\c-sharp-academy\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+G:\Repository\c-sharp-academy\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+G:\Repository\c-sharp-academy\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+G:\Repository\c-sharp-academy\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+G:\Repository\c-sharp-academy\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
